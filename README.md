@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img width=400 align="center" src="https://github-readme-stats-unknowns-projects-e8b23269.vercel.app/api/top-langs/?username=unknown176740&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats-unknowns-projects-e8b23269.vercel.app/api/top-langs/?username=unknown176740&size_weight=0.5&count_weight=0.5" alt="most used languages" />
 </div>
 
 <br>
