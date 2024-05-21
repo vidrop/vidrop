@@ -12,15 +12,13 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align="center">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown176740&hide=HTML&langs_count=8&layout=compact&theme=gotham&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 
 <h2 align="center">💎 Tools 💎</h2>
-<br/>
-<div align="center" style="background-color:#004c59; padding:20px;">
+<div align="center">
     <img src="1-icons/1-c.svg" width="50" height="50"/>
     <img src="1-icons/2-python.svg" width="50" height="50"/>
     <img src="1-icons/3-html.svg" width="50" height="50"/>
