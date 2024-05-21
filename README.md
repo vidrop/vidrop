@@ -22,22 +22,22 @@
 <br>
 
 <div align="center">
-    <img src="1-icons/1-c.svg" width="50" height="50"/>
-    <img src="1-icons/2-python.svg" width="50" height="50"/>
-    <img src="1-icons/3-html.svg" width="50" height="50"/>
-    <img src="1-icons/4-css.svg" width="50" height="50"/>
-    <img src="1-icons/5-google_sites.png" width="50" height="50"/>
-    <img src="1-icons/6-git.svg" width="50" height="50"/>
-    <img src="1-icons/7-vs_code.svg" width="50" height="50"/>
-    <img src="1-icons/8-eclipse.svg" width="50" height="50"/>
-    <img src="1-icons/9-excel.svg" width="50" height="50"/>
-    <img src="1-icons/10-word.svg" width="50" height="50"/>
+    <img src="1-icons/1-c.svg" width="60" height="60"/>
+    <img src="1-icons/2-python.svg" width="60" height="60"/>
+    <img src="1-icons/3-html.svg" width="60" height="60"/>
+    <img src="1-icons/4-css.svg" width="60" height="60"/>
+    <img src="1-icons/5-google_sites.png" width="60" height="60"/>
+    <img src="1-icons/6-git.svg" width="60" height="60"/>
+    <img src="1-icons/7-vs_code.svg" width="60" height="60"/>
+    <img src="1-icons/8-eclipse.svg" width="60" height="60"/>
+    <img src="1-icons/9-excel.svg" width="60" height="60"/>
+    <img src="1-icons/10-word.svg" width="60" height="60"/>
     <br>
-    <img src="1-icons/11-powerpoint.svg" width="50" height="50"/>
-    <img src="1-icons/12-notion.svg" width="50" height="50"/>
-    <img src="1-icons/13-anki.png" width="50" height="50"/>
-    <img src="1-icons/14-latex.svg" width="50" height="50"/>
-    <img src="1-icons/15-markdown.svg" width="50" height="50"/>
+    <img src="1-icons/11-powerpoint.svg" width="60" height="60"/>
+    <img src="1-icons/12-notion.svg" width="60" height="60"/>
+    <img src="1-icons/13-anki.png" width="60" height="60"/>
+    <img src="1-icons/14-latex.svg" width="60" height="60"/>
+    <img src="1-icons/15-markdown.svg" width="60" height="60"/>
 </div>
 
 
