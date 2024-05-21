@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-  <img width=400 align="center" src="https://github-readme-stats-theta-three-46.vercel.app
-/api/top-langs/?username=unknown176740&hide=HTML&langs_count=8&layout=compact&theme=gotham&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 align="center" src="https://github-readme-stats-theta-three-46.vercel.app/api?      
+  username=unknown176740&hide=HTML&langs_count=8&layout=compact&theme=gotham&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br>
