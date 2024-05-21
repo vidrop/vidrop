@@ -7,21 +7,21 @@
 <br><br>
 
 <div align="center">
-    <span style="font-size:60px;">
+    <h3>
         <a href="">🌐 CLICK HERE TO VISIT MY PORTFOLIO 🌐</a>
-    </span>
+    </h3>
 </div>
 
 <br><br>
 
-<span style="font-size:90px;" align="center">⚡ Stats ⚡</span>
+<h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown176740&hide=HTML&langs_count=8&layout=compact&theme=gotham&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br><br>
 
-<span style="font-size:90px;" align="center">💎 Tools 💎</span>
+<h2 align="center">💎 Tools 💎</h2>
 <div align="center">
     <img src="1-icons/1-c.svg" width="50" height="50"/>
     <img src="1-icons/2-python.svg" width="50" height="50"/>
