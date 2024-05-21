@@ -32,7 +32,7 @@
     <img src="1-icons/8-eclipse.svg" width="60" height="60"/>
     <img src="1-icons/9-excel.svg" width="60" height="60"/>
     <img src="1-icons/10-word.svg" width="60" height="60"/>
-    <br>
+    <br><br>
     <img src="1-icons/11-powerpoint.svg" width="60" height="60"/>
     <img src="1-icons/12-notion.svg" width="60" height="60"/>
     <img src="1-icons/13-anki.png" width="60" height="60"/>
