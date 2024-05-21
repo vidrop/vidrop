@@ -1,13 +1,13 @@
 <div style="font-weight: bold;">
     <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Proxima+Nova&size=35&color=004c59&center=true&vCenter=true&width=700&height=70&duration=3000&lines=👁+Hi+there+👁;I'm+Abdullah+and+I+want+to...;Thank+you+for+visiting+my>1repository!;I+suggest+you+visit+my+portfolio+⬇️" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Proxima+Nova&size=35&color=004c59&center=true&vCenter=true&width=700&height=70&duration=3000&lines=👁+Hi+there+👁;I'm+Abdullah+and+I+want+to...;Thank+you+for+visiting+my+repository!;I+suggest+you+visit+my+portfolio+⬇️" />
     </h1>
 </div>
 
 <h2 align="center">🌐 Portfolio 🌐</h2>
 <div align="center">
     <h1>
-        <a style="color:#004c59; text-decoration:underline;" href="https://www.coursera.org/">CLICK HERE</a>
+        <a href="">➡️ CLICK HERE ⬅️</a>
     </h1>
 </div>
 
@@ -20,7 +20,7 @@
 
 <h2 align="center">💎 Tools 💎</h2>
 <br/>
-<div align="center">
+<div align="center" style="background-color:#004c59; padding:20px;">
     <img src="1-icons/1-c.svg" width="50" height="50"/>
     <img src="1-icons/2-python.svg" width="50" height="50"/>
     <img src="1-icons/3-html.svg" width="50" height="50"/>
