@@ -5,39 +5,16 @@
 </div>
 
 <br>
-<h3 align="center">
+<h2 align="center">
     <a href="">🌐 CLICK HERE TO VISIT MY PORTFOLIO 🌐</a>
-</h3>
+</h2>
 
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 <div align="center">
-  <img width=400 align="center" src="https://github-readme-stats-unknowns-projects-e8b23269.vercel.app/api/top-langs/?username=unknown176740&size_weight=0.5&count_weight=0.5" alt="most used languages" />
-</div>
-
-<br>
-<h2 align="center">💎 Tools 💎</h2>
-<br>
-
-<div align="center">
-    <img src="1-icons/1-c.svg" width="60" height="60"/>
-    <img src="1-icons/2-python.svg" width="60" height="60"/>
-    <img src="1-icons/3-html.svg" width="60" height="60"/>
-    <img src="1-icons/4-css.svg" width="60" height="60"/>
-    <img src="1-icons/5-google_sites.png" width="60" height="60"/>
-    <img src="1-icons/6-git.svg" width="60" height="60"/>
-    <img src="1-icons/7-vs_code.svg" width="60" height="60"/>
-    <img src="1-icons/8-eclipse.svg" width="60" height="60"/>
-    <img src="1-icons/9-excel.svg" width="60" height="60"/>
-    <img src="1-icons/10-word.svg" width="60" height="60"/>
-    <br><br>
-    <img src="1-icons/11-powerpoint.svg" width="60" height="60"/>
-    <img src="1-icons/12-notion.svg" width="60" height="60"/>
-    <img src="1-icons/13-anki.png" width="60" height="60"/>
-    <img src="1-icons/14-latex.svg" width="60" height="60"/>
-    <img src="1-icons/15-markdown.svg" width="60" height="60"/>
+  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-unknowns-projects-e8b23269.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5"/>
 </div>
 
 
