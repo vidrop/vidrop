@@ -5,9 +5,9 @@
 </div>
 
 <br>
-<h2 align="center">
+<h1 align="center">
     <a href="">🌐 CLICK HERE TO VISIT MY PORTFOLIO 🌐</a>
-</h2>
+</h1>
 
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
