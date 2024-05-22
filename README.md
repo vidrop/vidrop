@@ -17,8 +17,6 @@
   <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-unknowns-projects-e8b23269.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
