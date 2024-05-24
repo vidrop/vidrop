@@ -6,7 +6,9 @@
 
 <br>
 <h1 align="center">
-    <a href="">🌐 CLICK HERE TO VISIT MY PORTFOLIO 🌐</a>
+    🌐
+    <a style="color: #004c59; text-decoration: underline;" href="tzolic.github.io"> CLICK HERE TO VISIT MY PORTFOLIO</a>
+    🌐
 </h1>
 
 <br>
@@ -14,8 +16,11 @@
 <br>
 
 <div align="center">
-  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=30&theme=gotham"/>
+  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=30&bg_color=004c59&text_color=fff&title_color=fff&hide_border=true"/>
 </div>
+
+
+
 
 
 
