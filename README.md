@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=30&theme=default"/>
+  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=30&theme=dark"/>
 </div>
 
 
