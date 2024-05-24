@@ -6,10 +6,9 @@
 
 <br>
 <h1 align="center">
-    🌐
-    <a style="color: #004c59; text-decoration: underline;" href="tzolic.github.io"> CLICK HERE TO VISIT MY PORTFOLIO</a>
-    🌐
+    <a href="https://tzolic.github.io/">🌐 CLICK HERE TO VISIT MY PORTFOLIO 🌐</a>
 </h1>
+
 
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
