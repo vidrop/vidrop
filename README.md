@@ -12,8 +12,8 @@
 
 <h1 align="center">🛠️ Featured Projects 🛠️</h1>
 
-- [portfolio website]()
-- heart health program
+- [portfolio website](https://github.com/tzolic/tzolic.github.io)
+- [heart health program](https://github.com/tzolic/heart_health_program)
 
 
 
