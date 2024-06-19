@@ -14,7 +14,7 @@
 
 <h1 align="center">🛠️ Featured Projects 🛠️</h1>
 
-- ### [heart health program ❤️](https://github.com/tzolic/heart_health_program)
+- ### [heart health program ❤️](https://tzolic.github.io/1-heart_health_program.html)
 
 
 
