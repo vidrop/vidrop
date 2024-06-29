@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=30&text_color=fff&title_color=fff&bg_color=0092a2&hide_border=true"/>
+  <img width=400 align="center" alt="most used languages" src="https://github-readme-stats-tzolics-projects.vercel.app/api/top-langs/?username=tzolic&size_weight=0.5&count_weight=0.5&border_radius=40&text_color=fff&title_color=fff&bg_color=0092a2&hide_border=true"/>
 </div>
 
 <br>
