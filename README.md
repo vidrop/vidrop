@@ -14,7 +14,12 @@
 
 <h1 align="center">🛠️ Featured Projects 🛠️</h1>
 
+<div align="center">
+
 # [🌐 CLICK HERE 🌐](https://tzolic.github.io#projects)
+
+</div>
+
 
 
 
