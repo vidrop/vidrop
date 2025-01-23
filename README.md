@@ -2,9 +2,9 @@
 
 ## A repository where I present myself
 
-<div style="font-weight: bold;">
-    <h1 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&size=70&color=101820&center=true&vCenter=true&width=1200&height=100&duration=2000&lines=👁+Hi+there+👁;+I'm+tzolic+👋;Welcome+to+my+repository!;" />
+<div>
+    <h1 align="center" class="light mode">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=70&color=FEE715&center=true&vCenter=true&width=1200&height=100&duration=2000&lines=👁+Hi+there+👁;+I'm+tzolic+👋;Welcome+to+my+repository!;" />
     </h1>
 </div>
 
@@ -16,14 +16,8 @@
 
 <br>
 
-## Portfolio Website (Where I Showcase All My Projects)
+## Portfolio Website (Where I Showcase My Projects)
 
 ### Click here: [tzolic.github.io](https://tzolic.github.io)
 
 </div>
-
-
-
-
-
-
