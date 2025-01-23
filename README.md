@@ -4,7 +4,7 @@
 
 <div>
     <h1 align="center" class="light mode">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=70&color=FEE715&center=true&vCenter=true&width=1200&height=100&duration=2000&lines=👁+Hi+there+👁;+I'm+tzolic+👋;Welcome+to+my+repository!;" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=70&color=FEE715&center=true&vCenter=true&width=1200&height=100&duration=4000&lines=👁+Hi+there+👁;+I'm+tzolic+👋;Welcome+to+my+repository!;" />
     </h1>
 </div>
 
