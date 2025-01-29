@@ -1,12 +1,8 @@
-# My Profile repository
+# My Profile Repository
 
 ## A repository where I present myself
 
-<div>
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=70&color=FEE715&center=true&vCenter=true&width=1200&height=100&duration=4000&lines=👁+Hi+there+👁;+I'm+tzolic+👋;Welcome+to+my+repository!;" />
-    </h1>
-</div>
+### Hi there, I'm tzolic. Welcome to my repository!
 
 <br>
 
