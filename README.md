@@ -1,3 +1,3 @@
-# Hi, I'm tzolic!
+# hi, I'm tzolic!
 
-# Portfolio Website : [tzolic.netlify.app](https://tzolic.netlify.app/)
+# portfolio website : [tzolic.netlify.app](https://tzolic.netlify.app/)
