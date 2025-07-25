@@ -1,3 +1,3 @@
 # hi, I'm vidrop!
 
-# portfolio website : [vidrop.netlify.app](https://tzolic.netlify.app/)
+# portfolio website : [vidrop.netlify.app](https://vidrop.netlify.app/)
