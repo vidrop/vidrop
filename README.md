@@ -1,3 +1,3 @@
-# Hi there, I'm tzolic!
-
-## Portfolio Website : [tzolic.netlify.app](https://tzolic.netlify.app/)
+# 👋 hi there, I'm tzolic!
+## 🌐 portfolio website
+### 👉 click here: https://vidrop.netlify.app/
