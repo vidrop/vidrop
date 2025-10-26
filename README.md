@@ -1,3 +1,3 @@
-# hi, I'm vidrop!
-
-# portfolio website : [vidrop.netlify.app](https://vidrop.netlify.app/)
+# 👋 hi there, I'm vidrop!
+## 🌐 portfolio website : 
+### 👉 click here: https://vidrop.netlify.app/
